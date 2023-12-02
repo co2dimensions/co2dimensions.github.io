@@ -25,7 +25,7 @@ sRNA plays a central regulatory role in gene expression primarily by complementa
 ## Revealing the Relations between Promoter Sequences Patterns and Gene Expression Levels
 Supervised by [Terence Hwa](https://scholar.google.it/citations?hl=it&user=L2SR_dkAAAAJ)
 
-[Recent findings](https://www.science.org/doi/abs/10.1126/science.abk2066) underscore basal expression levels, dictated by corresponding promoter strength, primarily determine gene expression levels—quantified by protein abundance. The conservation of basal expression levels across diverse bacteria implies the feasibility of gene expression level prediction among species, provided their genomes are available. Below is the patterns revealed in near-promoter regions. I highlight the regions with high information.  0 here is the transcription start site.
+[Recent findings](https://www.science.org/doi/abs/10.1126/science.abk2066) underscore basal expression levels, dictated by corresponding promoter strength, primarily determine gene expression levels—quantified by protein abundance. The conservation of basal expression levels across diverse bacteria implies the feasibility of gene expression level prediction among species, provided their genomes are available. Below is the patterns revealed in near-promoter regions. I highlight the regions with high information.  0 here is the transcription start site. 
 
 <img src="images/patterns.png" alt="patterns" style="zoom:80%;" />
 
