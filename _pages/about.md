@@ -18,7 +18,7 @@ Supervised by [Matteo Mori](https://scholar.google.it/citations?user=_4FUCVYAAAA
 
 sRNA plays a central regulatory role in gene expression primarily by complementary binding to induce co-degradation or alter mRNA spatial conformation, affecting mRNA stability or translation ability. Below is the genome-wide sRNA-mediate gene expression map under carbon-limitation(by limiting the numbers of glucose transporters) condition.
 
-<<img src="../images/Genome_wide_sRNA.png" alt="Genome_wide_sRNA" style="zoom:80%;" /> 
+<img src="../images/Genome_wide_sRNA.png" alt="Genome_wide_sRNA" style="zoom:80%;" /> 
 
 
 
