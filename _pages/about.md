@@ -18,7 +18,7 @@ Supervised by [Matteo Mori](https://scholar.google.it/citations?user=_4FUCVYAAAA
 
 sRNA plays a central regulatory role in gene expression primarily by complementary binding to induce co-degradation or alter mRNA spatial conformation, affecting mRNA stability or translation ability. Below is the genome-wide sRNA-mediate gene expression map under carbon-limitation(by limiting the numbers of glucose transporters) condition.
 
-<<img src="images/Genome_wide_sRNA.png" alt="Genome_wide_sRNA" style="zoom:80%;" /> 
+<<img src="../images/Genome_wide_sRNA.png" alt="Genome_wide_sRNA" style="zoom:80%;" /> 
 
 
 
@@ -27,11 +27,11 @@ Supervised by [Terence Hwa](https://scholar.google.it/citations?hl=it&user=L2SR_
 
 [Recent findings](https://www.science.org/doi/abs/10.1126/science.abk2066) underscore basal expression levels, dictated by corresponding promoter strength, primarily determine gene expression levels—quantified by protein abundance. The conservation of basal expression levels across diverse bacteria implies the feasibility of gene expression level prediction among species, provided their genomes are available. Below is the patterns revealed in near-promoter regions. I highlight the regions with high information.  0 here is the transcription start site. 
 
-<img src="images/patterns.png" alt="patterns" style="zoom:80%;" />
+<img src="../images/patterns.png" alt="patterns" style="zoom:80%;" />
 
 ## Mechanism of Accurate Division in E. coli and its Response to Hyperosmotic Shock
 Supervised by [Jie Lin](https://cqb.pku.edu.cn/jlingroup/)
 
 Cells display internal temporal fluctuations and individual variations in size and protein content and face rapid and large changes in factors like osmolarity, temperature, and nutrients. However, the size variances are constrained within a specific, environment-influenced range, suggesting a precise and dynamic regulatory mechanism. Focusing on the MinCDE system, which positions the division machinery spatiotemporally and is crucial for effective division in E. coli, I investigated the division strategy and dynamic adjustment under osmotic shock.
 
-<img src="images/minsystem_phase.png" alt="minsystem_phase" style="zoom:80%;" />
+<img src="../images/minsystem_phase.png" alt="minsystem_phase" style="zoom:80%;" />
