@@ -39,4 +39,4 @@ Supervised by [Jie Lin](https://cqb.pku.edu.cn/jlingroup/)
 
 Cells display internal temporal fluctuations and individual variations in size and protein content and face rapid and large changes in factors like osmolarity, temperature, and nutrients. However, the size variances are constrained within a specific, environment-influenced range, suggesting a precise and dynamic regulatory mechanism. Focusing on the MinCDE system, which positions the division machinery spatiotemporally and is crucial for effective division in E. coli, I investigated the division strategy and dynamic adjustment under osmotic shock.
 
-<img src="../images/minsystem_phase.png" alt="minsystem_phase" style="zoom:80%;" />
+<img src="../images/minsystem_phase.png" alt="minsystem_phase" style="zoom:60%;" />
